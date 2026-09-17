@@ -18,27 +18,8 @@
   </p>
 
 </div>
-<table>
-<tr>
-<td valign="top" width="50%">
 
 #### 🌱 Internship Experience
 <p>
 <strong>Shanghai AI Laboratory</strong> -- <code>LLM Safety & Trustworthiness</code> -- <code>2026.7 to Present.</code><br/>
 </p>
-
-</td>
-<td valign="top" width="48%">
-
-#### 📊 GitHub Stats
-<p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wongzbb&theme=github_dark" alt="GitHub Stats"/>
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wongzbb&theme=github_dark" alt="Most Commit Language"/>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=wongzbb" alt="Profile views"/>
-</p>
-
-</td>
-</tr>
-</table>
