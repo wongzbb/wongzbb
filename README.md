@@ -21,26 +21,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9DE2,100:7B68EE&height=140&text=%E2%9C%A8+News+%E2%9C%A8&fontSize=42&fontColor=ffffff&fontAlignY=34&animation=twinkling" width="100%" alt="News"/>
 
-### ✧･ﾟ: 🌸 Publications :･ﾟ✧
-
-- `2026.06` 🎊 *Energy Waveify and Redistribution for Test-Time Adaptation: A Control System Perspective* is accepted by **CVPR 2026**! [![CVPR](https://img.shields.io/badge/CVPR-2026-B5179E?style=flat-square)](https://cvpr.thecvf.com/virtual/2026/poster/40085) [📄 Paper](https://cvpr.thecvf.com/virtual/2026/poster/40085)
-- `2025.12` 🎊 *Rethinking Out-of-Distribution Detection and Generalization with Collective Behavior Dynamics* is accepted by **NeurIPS 2025**! [![NeurIPS](https://img.shields.io/badge/NeurIPS-2025-7209B7?style=flat-square)](https://papers.nips.cc/paper_files/paper/2025/hash/7fcf047b35bff71349c1c26c9e1cbd5b-Abstract-Conference.html) [📄 Paper](https://papers.nips.cc/paper_files/paper/2025/hash/7fcf047b35bff71349c1c26c9e1cbd5b-Abstract-Conference.html)
-- `2025.01` 🎊 *LanDA: Language-Guided Multi-Source Domain Adaptation* is published in **IEEE TAI**! [![IEEE TAI](https://img.shields.io/badge/IEEE_TAI-2025-F72585?style=flat-square)](https://doi.org/10.1109/TAI.2025.3634277) [📄 Paper](https://doi.org/10.1109/TAI.2025.3634277)
-- `2024.04` 🎊 *Source Bias Reduction for Source-Free Domain Adaptation* is published in **SIVP**! [![SIVP](https://img.shields.io/badge/SIVP-2024-4CC9F0?style=flat-square)](https://doi.org/10.1007/s11760-024-03200-6) [📄 Paper](https://doi.org/10.1007/s11760-024-03200-6)
-- `2023.03` 🎊 *OVQE: Omniscient Network for Compressed Video Quality Enhancement* is published in **IEEE TBC**! [![IEEE TBC](https://img.shields.io/badge/IEEE_TBC-2023-4361EE?style=flat-square)](https://doi.org/10.1109/TBC.2022.3208426) [📄 Paper](https://doi.org/10.1109/TBC.2022.3208426)
-- `2023.01` 🎊 *Robust Self-Supervised Learning for Source-Free Domain Adaptation* is published in **SIVP**! [![SIVP](https://img.shields.io/badge/SIVP-2023-4CC9F0?style=flat-square)](https://doi.org/10.1007/s11760-022-02457-z) [📄 Paper](https://doi.org/10.1007/s11760-022-02457-z)
-- `2022.11` 🎊 *MetaTeacher: Coordinating Multi-Model Domain Adaptation for Medical Image Classification* is accepted by **NeurIPS 2022**! [![NeurIPS](https://img.shields.io/badge/NeurIPS-2022-7209B7?style=flat-square)](https://openreview.net/forum?id=AQd4ugzALQ1) [📄 Paper](https://openreview.net/forum?id=AQd4ugzALQ1)
-
-<div align="center">⋆ ˚｡⋆୨ ୧⋆˚｡⋆ ✧ ⋆˚｡⋆୨ ୧⋆˚｡⋆</div>
-
-### ✧･ﾟ: 🌙 Preprints :･ﾟ✧
+### ✧･ﾟ: 📰 Latest News :･ﾟ✧
 
 - `2026.09` ✨ *Sparse MLLM Anchors, Dense Adaptation: Breaking the Self-Referential Loop in Wild Test-Time Adaptation* is released on arXiv! [![arXiv](https://img.shields.io/badge/arXiv-2609.17040-B31B1B?style=flat-square)](https://arxiv.org/abs/2609.17040) [📄 Paper](https://arxiv.org/abs/2609.17040)
 - `2026.09` ✨ *StackTok: Accelerating VLMs Inference with Budget-Adaptive Visual Token Selection* is released on arXiv! [![arXiv](https://img.shields.io/badge/arXiv-2609.16841-B31B1B?style=flat-square)](https://arxiv.org/abs/2609.16841) [📄 Paper](https://arxiv.org/abs/2609.16841) [💻 Code](https://github.com/wongzbb/StackToK)
 - `2026.09` ✨ *Layers, Sinks, and Scaling: Adaptive Evidence Selection for Multimodal Large Language Models* is released on arXiv! [![arXiv](https://img.shields.io/badge/arXiv-2609.16795-B31B1B?style=flat-square)](https://arxiv.org/abs/2609.16795) [📄 Paper](https://arxiv.org/abs/2609.16795) [💻 Code](https://github.com/wongzbb/AREA)
+- `2026.06` 🎊 *Energy Waveify and Redistribution for Test-Time Adaptation: A Control System Perspective* is accepted by **CVPR 2026**! [![CVPR](https://img.shields.io/badge/CVPR-2026-B5179E?style=flat-square)](https://cvpr.thecvf.com/virtual/2026/poster/40085) [📄 Paper](https://cvpr.thecvf.com/virtual/2026/poster/40085)
+- `2025.12` 🎊 *Rethinking Out-of-Distribution Detection and Generalization with Collective Behavior Dynamics* is accepted by **NeurIPS 2025**! [![NeurIPS](https://img.shields.io/badge/NeurIPS-2025-7209B7?style=flat-square)](https://papers.nips.cc/paper_files/paper/2025/hash/7fcf047b35bff71349c1c26c9e1cbd5b-Abstract-Conference.html) [📄 Paper](https://papers.nips.cc/paper_files/paper/2025/hash/7fcf047b35bff71349c1c26c9e1cbd5b-Abstract-Conference.html)
+- `2025.01` 🎊 *LanDA: Language-Guided Multi-Source Domain Adaptation* is published in **IEEE TAI**! [![IEEE TAI](https://img.shields.io/badge/IEEE_TAI-2025-F72585?style=flat-square)](https://doi.org/10.1109/TAI.2025.3634277) [📄 Paper](https://doi.org/10.1109/TAI.2025.3634277)
 - `2024.11` ✨ *MedSora: Optical Flow Representation Alignment Mamba Diffusion Model for Medical Video Generation* is released on arXiv! [![arXiv](https://img.shields.io/badge/arXiv-2411.01647-B31B1B?style=flat-square)](https://arxiv.org/abs/2411.01647) [📄 Paper](https://arxiv.org/abs/2411.01647) [💻 Code](https://github.com/wongzbb/MedSora)
 - `2024.06` ✨ *Soft Masked Mamba Diffusion Model for CT to MRI Conversion* is released on arXiv! [![arXiv](https://img.shields.io/badge/arXiv-2406.15910-B31B1B?style=flat-square)](https://arxiv.org/abs/2406.15910) [📄 Paper](https://arxiv.org/abs/2406.15910) [💻 Code](https://github.com/wongzbb/DiffMa-Diffusion-Mamba)
+- `2024.04` 🎊 *Source Bias Reduction for Source-Free Domain Adaptation* is published in **SIVP**! [![SIVP](https://img.shields.io/badge/SIVP-2024-4CC9F0?style=flat-square)](https://doi.org/10.1007/s11760-024-03200-6) [📄 Paper](https://doi.org/10.1007/s11760-024-03200-6)
 - `2024.01` ✨ *LanDA: Language-Guided Multi-Source Domain Adaptation* is released on arXiv! [![arXiv](https://img.shields.io/badge/arXiv-2401.14148-B31B1B?style=flat-square)](https://arxiv.org/abs/2401.14148) [📄 Paper](https://arxiv.org/abs/2401.14148) [💻 Code](https://github.com/wongzbb/LanDA)
+- `2023.03` 🎊 *OVQE: Omniscient Network for Compressed Video Quality Enhancement* is published in **IEEE TBC**! [![IEEE TBC](https://img.shields.io/badge/IEEE_TBC-2023-4361EE?style=flat-square)](https://doi.org/10.1109/TBC.2022.3208426) [📄 Paper](https://doi.org/10.1109/TBC.2022.3208426)
+- `2023.01` 🎊 *Robust Self-Supervised Learning for Source-Free Domain Adaptation* is published in **SIVP**! [![SIVP](https://img.shields.io/badge/SIVP-2023-4CC9F0?style=flat-square)](https://doi.org/10.1007/s11760-022-02457-z) [📄 Paper](https://doi.org/10.1007/s11760-022-02457-z)
+- `2022.11` 🎊 *MetaTeacher: Coordinating Multi-Model Domain Adaptation for Medical Image Classification* is accepted by **NeurIPS 2022**! [![NeurIPS](https://img.shields.io/badge/NeurIPS-2022-7209B7?style=flat-square)](https://openreview.net/forum?id=AQd4ugzALQ1) [📄 Paper](https://openreview.net/forum?id=AQd4ugzALQ1)
 
 ---
 
