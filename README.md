@@ -18,8 +18,27 @@
   </p>
 
 </div>
+<table>
+<tr>
+<td valign="top" width="50%">
 
 #### 🌱 Internship Experience
 <p>
-<strong>Shanghai AI Laboratory</strong> -- <code>2026.7 to Present.</code><br/>
+<strong>Shanghai AI Laboratory</strong> -- <code>LLM Safety & Trustworthiness</code> -- <code>2026.7 to Present.</code><br/>
 </p>
+
+</td>
+<td valign="top" width="48%">
+
+#### 📊 GitHub Stats
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=wongzbb&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="GitHub Stats"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongzbb&hide=jupyter%20Notebook&layout=compact&theme=highcontrast" alt="Top Languages"/>
+<br/>
+<img src="https://profile-counter.glitch.me/wongzbb/count.svg" alt="Visitor Count"/>
+</p>
+
+</td>
+</tr>
+</table>
