@@ -12,14 +12,12 @@
 
 </div>
 
-### 🌱 Internship Experience
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:d0d7de,100:d0d7de" width="100%"/>
+### 🌱 Internship Experience <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:d0d7de,100:d0d7de" width="100%"/>
 <p>
 <strong>Shanghai Artificial Intelligence Laboratory</strong> -- <code>LLM Safety & Trustworthiness</code> -- <code>2026.7 to Present.</code><br/>
 </p>
 
-### 📰 Latest News
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:d0d7de,100:d0d7de" width="100%"/>
+### 📰 Latest News <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:d0d7de,100:d0d7de" width="100%"/>
 
 - `2026.09` ✨ *Sparse MLLM Anchors, Dense Adaptation: Breaking the Self-Referential Loop in Wild Test-Time Adaptation* is released on arXiv! [![arXiv](https://img.shields.io/badge/arXiv-2609.17040-B31B1B?style=flat-square)](https://arxiv.org/abs/2609.17040) [![Code](https://img.shields.io/badge/Code-GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/wongzbb/MASA)
 - `2026.09` ✨ *StackTok: Accelerating VLMs Inference with Budget-Adaptive Visual Token Selection* is released on arXiv! [![arXiv](https://img.shields.io/badge/arXiv-2609.16841-B31B1B?style=flat-square)](https://arxiv.org/abs/2609.16841) [![Code](https://img.shields.io/badge/Code-GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/wongzbb/StackToK)
