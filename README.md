@@ -12,10 +12,9 @@
 
 </div>
 
-#### 🌱 Internship Experience
-<p>
-<strong>Shanghai Artificial Intelligence Laboratory</strong> -- <code>LLM Safety & Trustworthiness</code> -- <code>2026.7 to Present.</code><br/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:89F7FE,100:66A6FF&height=130&text=%F0%9F%8C%B1%20Internship%20Experience&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" alt="Internship Experience"/>
+
+- 🏢 [**Shanghai Artificial Intelligence Laboratory**](https://www.shlab.org.cn) — <code>LLM Safety & Trustworthiness</code> — `2026.7 → Present` [![Current](https://img.shields.io/badge/●-Current-2EA043?style=flat-square)](https://www.shlab.org.cn)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9DE2,100:7B68EE&height=140&text=%E2%9C%A8+News+%E2%9C%A8&fontSize=42&fontColor=ffffff&fontAlignY=34&animation=twinkling" width="100%" alt="News"/>
 
