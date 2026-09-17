@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Wongzbb.+AI+Researcher" alt="Hi"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>My research interests include Generalization, Reasoning and AI Safety.</strong>
+    I am currently a research intern at Shanghai Artificial Intelligence Laboratory, and a Ph.D. candidate at the College of Computer Science, Sichuan University, advised by Prof. Lei Zhang. My research interests include Generalization, Reasoning and AI Safety.
   </p>
 
   <p>
