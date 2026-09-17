@@ -19,7 +19,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9DE2,100:7B68EE&height=140&text=%E2%9C%A8+News+%E2%9C%A8&fontSize=42&fontColor=ffffff&fontAlignY=34&animation=twinkling" width="100%" alt="News"/>
 
-### ✧･ﾟ: 📰 Latest News :･ﾟ✧
+### 📰 Latest News
 
 - `2026.09` ✨ *Sparse MLLM Anchors, Dense Adaptation: Breaking the Self-Referential Loop in Wild Test-Time Adaptation* is released on arXiv! [![arXiv](https://img.shields.io/badge/arXiv-2609.17040-B31B1B?style=flat-square)](https://arxiv.org/abs/2609.17040) [📄 Paper](https://arxiv.org/abs/2609.17040)
 - `2026.09` ✨ *StackTok: Accelerating VLMs Inference with Budget-Adaptive Visual Token Selection* is released on arXiv! [![arXiv](https://img.shields.io/badge/arXiv-2609.16841-B31B1B?style=flat-square)](https://arxiv.org/abs/2609.16841) [📄 Paper](https://arxiv.org/abs/2609.16841) [💻 Code](https://github.com/wongzbb/StackToK)
