@@ -21,5 +21,5 @@
 
 #### 🌱 Internship Experience
 <p>
-<strong>Shanghai AI Laboratory</strong> -- <code>LLM Safety & Trustworthiness</code> -- <code>2026.7 to Present.</code><br/>
+<strong>Shanghai Artificial Intelligence Laboratory</strong> -- <code>LLM Safety & Trustworthiness</code> -- <code>2026.7 to Present.</code><br/>
 </p>
