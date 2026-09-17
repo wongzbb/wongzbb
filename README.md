@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Wongzbb.+AI+Researcher" alt="Hi"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>I'm currently focused on Generalization (e.g. Transfer Learning), Reasoning & AI Safety.</strong>
+    <strong>My research interests include Generalization, Reasoning and AI Safety.</strong>
   </p>
 
   <p>
@@ -32,11 +32,11 @@
 
 #### 📊 GitHub Stats
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=wongzbb&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wongzbb&theme=github_dark" alt="GitHub Stats"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongzbb&hide=jupyter%20Notebook&layout=compact&theme=highcontrast" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wongzbb&theme=github_dark" alt="Most Commit Language"/>
 <br/>
-<img src="https://profile-counter.glitch.me/wongzbb/count.svg" alt="Visitor Count"/>
+<img src="https://komarev.com/ghpvc/?username=wongzbb" alt="Profile views"/>
 </p>
 
 </td>
