@@ -12,23 +12,10 @@
 
 </div>
 
-<table>
-<tr>
-<td valign="middle" width="52%">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=19&color=5B86E5&center=false&lines=%F0%9F%8C%B1+Interning+at+Shanghai+AI+Lab;%F0%9F%94%AC+LLM+Safety+%26+Trustworthiness;%F0%9F%93%85+2026.7+%E2%86%92+Present" alt="Internship"/>
-
-</td>
-<td valign="middle" width="48%" align="center">
-
-[![Shanghai AI Lab](https://img.shields.io/badge/%F0%9F%8F%A2-Shanghai_AI_Lab-2DD4BF?style=flat-square)](https://www.shlab.org.cn)  
-[![Dept](https://img.shields.io/badge/%F0%9F%94%AC-LLM_Safety_&_Trustworthiness-A78BFA?style=flat-square)](https://www.shlab.org.cn)  
-[![Time](https://img.shields.io/badge/%F0%9F%93%85-2026.7_%E2%86%92_Present-2EA043?style=flat-square)](https://www.shlab.org.cn)
-
-</td>
-</tr>
-</table>
-<div align="center">୨୧ ┈┈┈┈┈ ✿ ┈┈┈┈┈ ୨୧</div>
+#### 🌱 Internship Experience
+<p>
+<strong>Shanghai Artificial Intelligence Laboratory</strong> -- <code>LLM Safety & Trustworthiness</code> -- <code>2026.7 to Present.</code><br/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9DE2,100:7B68EE&height=140&text=%E2%9C%A8+News+%E2%9C%A8&fontSize=42&fontColor=ffffff&fontAlignY=34&animation=twinkling" width="100%" alt="News"/>
 
