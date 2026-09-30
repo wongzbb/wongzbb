@@ -20,7 +20,7 @@
 ### 📰 Latest News
 
 - `2026.10` 🚀 We are excited to release a preview version of *Flora*, A programmable
-core for agents! [![Try it](https://github.com/wongzbb/Flora/blob/overview/flora-logo.svg)](https://wongzbb.github.io/Flora/)
+core for agents! [![Try it](https://github.com/wongzbb/Flora/blob/overview/flora-logo.svg?style=flat-square)](https://wongzbb.github.io/Flora/)
 - `2026.09` ✨ *Fast Planning with Cross-Candidate Inference* is submitted to ICLR! [![OpenReview](https://img.shields.io/badge/OpenReview-Submission-8C1B13?style=flat-square)](https://openreview.net/attachment?id=Osc9uNEQRZ&name=pdf)
 - `2026.09` ✨ *Layers, Sinks, and Scaling: Adaptive Evidence Selection for Multimodal Large Language Models* is released on arXiv! [![arXiv](https://img.shields.io/badge/arXiv-2609.16795-B31B1B?style=flat-square)](https://arxiv.org/abs/2609.16795) [![Code](https://img.shields.io/badge/Code-GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/wongzbb/AREA)
 - `2026.09` ✨ *StackTok: Accelerating VLMs Inference with Budget-Adaptive Visual Token Selection* is released on arXiv! [![arXiv](https://img.shields.io/badge/arXiv-2609.16841-B31B1B?style=flat-square)](https://arxiv.org/abs/2609.16841) [![Code](https://img.shields.io/badge/Code-GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/wongzbb/StackToK)
